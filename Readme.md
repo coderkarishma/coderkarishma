@@ -1,86 +1,113 @@
-# 👋 Hi there, I'm Karishma Sain
+<h1 align="center">Hi there! I'm <span style="color:#ff6600">Karishma Sain</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h3 align="center">👩‍💻 Full Stack Developer | JavaScript Enthusiast | CSE Undergrad (2022–26)</h3>
 
-🎓 A dedicated B.Tech Computer Science student (2022–2026) from IMS Engineering College, Ghaziabad, passionate about Full Stack Web Development, Machine Learning, and solving real-world problems through technology.
+<p align="center">
+  <a href="https://github.com/coderkarishma">
+    <img src="https://avatars.githubusercontent.com/u/168537922?v=4" width="200" alt="GitHub Avatar" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.2);" />
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F76C6C&width=435&lines=Hi+I'm+Karishma+Sain;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB+Lover;Let's+Build+Impactful+Projects"/>
+</p>
 
-## 🌟 About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/karishma-sain-2173a823b/">
+    <img src="https://img.shields.io/badge/Follow%20Me-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:karishmasain2304@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Karishma-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://karishma-protfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Site-black?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
-B.Tech Computer Science student with a strong passion for **web development** and **software engineering**.  
-Proficient in **Java**, **Python**, and core web technologies like **HTML**, **CSS**, and **JavaScript**.
 
-Recently completed training in **Full Stack Web Development (MERN Stack)** and currently exploring **frontend development with React.js** through hands-on personal projects.
-
-A fast learner and highly motivated individual, seeking opportunities to gain **real-world development experience** and contribute meaningfully to **innovative tech teams** through internships and collaborative projects.
-
----
-
-## 🔗 Connect with me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/karishma-sain-2173a823b/)
-- 💻 [LeetCode](https://leetcode.com/u/karishma3114/)
-- 📬 Email: [karishmasain2304@gmail.com](mailto:karishmasain2304@gmail.com)
-- 🌐 [Portfolio](https://karishma-protfolio.netlify.app/)
-
----
-
-## 💻 Tech Stack
-
-**Languages:**  
-Java | Python | JavaScript | SQL | PHP
-
-**Frontend:**  
-HTML5 | CSS3 | React.js | Bootstrap | Tailwind CSS | Next.js
-
-**Backend:**  
-Node.js | Express.js | Spring Boot | MongoDB | MySQL | REST APIs
-
-**Tools & Platforms:**  
-VS Code | Git & GitHub | Postman | Canva | Render | Vercel | IntelliJ | Apache
 
 ---
 
-## 🚀 Projects
+## 📖 About Me
 
-### 🔹 [AI-Driven Medical Insurance Premium Predictor](https://aidrivenmedicalinsurancepremiumprediction-7xfjvyjgmxnxzrucu8lq.streamlit.app/)
-> Python, Scikit-learn  
-Predicts medical insurance premiums based on health and lifestyle data using machine learning.
+🎓 I'm a final-year Computer Science Engineering student from IMS Engineering College, Ghaziabad, with a passion for **building powerful full-stack applications** and exploring **real-world tech solutions**. From AI-based prediction systems to fitness tracking web apps, I love creating impactful and clean products.
 
-### 🔹 [Fitness Freak Web App](https://github.com/coderkarishma/Fitness-freaks)
-> HTML, CSS, JavaScript  
-Frontend project designed to promote fitness and wellness among users with a clean and responsive UI.
+🛠️ I'm currently interning as a **Frontend Developer** and diving deeper into scalable UI architecture, performance optimization, and clean code writing practices.
+
+💡 I'm constantly evolving by contributing to personal projects, exploring open-source, and staying updated with modern tools like **Next.js**, **Postman**, and **MongoDB Atlas**.
 
 ---
 
-## 🏆 Experience & Training
+## 🚀 Tech Stack
 
-### 🔸 Intern – IIIION Smart Tech (May–July 2025)  
-Frontend Developer  
-- Built reusable components using React.js  
-- Designed responsive layouts with Tailwind CSS  
-- Used React Hooks, lazy loading, and performance optimizations
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,bootstrap,tailwind,python,java,spring,mysql,git,github,postman" />
+</p>
 
-### 🔸 Full Stack Training – CETPA Infotech (June–July 2024)  
-Worked on real-world mini-projects using the MERN stack  
-Learned backend routing, CRUD APIs, and testing with Postman
+---
+
+---
+
+## 📊 LinkedIn Insights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn%20Network-500%2B%20Connections-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/Profile%20Engagement-Highly%20Active-green?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/Professional%20Branding-Consistently%20Evolving-purple?style=for-the-badge&logo=linkedin" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/karishma-sain-2173a823b/">
+    <img src="https://user-images.githubusercontent.com/74038190/212750673-47e79c09-3a54-426b-99a0-6c7556a67e09.gif" width="75%" alt="LinkedIn Banner" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/karishma-sain-2173a823b/">
+    <img src="https://img.shields.io/badge/Visit%20LinkedIn-View%20My%20Professional%20Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 💼 Experience & Training
+
+### 🖥️ Frontend Developer Intern — IIIION Smart Tech (May–July 2025)
+- Built modular & reusable components in **React.js**
+- Applied **responsive design** with Tailwind CSS
+- Optimized page performance with **hooks & lazy loading**
+
+### 🧑‍💻 Full Stack Developer Trainee — CETPA Infotech (June–July 2024)
+- Trained on **MERN Stack** with real-world mini-projects
+- Created & tested **RESTful APIs** using Postman
+
+---
+
+## 💡 Featured Projects
+
+### 📊 [AI Medical Insurance Premium Predictor](https://aidrivenmedicalinsurancepremiumprediction-7xfjvyjgmxnxzrucu8lq.streamlit.app/)
+A Streamlit-based Python project that predicts insurance premium based on medical history.
+
+### 🧘‍♀️ [Fitness Freak](https://github.com/coderkarishma/Fitness-freaks)
+Frontend fitness tracker web app created using HTML, CSS & JavaScript with responsive layout.
 
 ---
 
 ## 📜 Certifications
 
-- Web Development using React JS – CETPA
-- Deloitte Technology Virtual Experience – Forage
-- Introduction to Machine Learning Algorithms – Simplilearn
+- ✅ React Web Development – CETPA Infotech
+- ✅ Deloitte Technology Job Simulation – Forage
+- ✅ Introduction to Machine Learning – Simplilearn
 
 ---
 
-## 💡 Currently Exploring
+## 🔍 Currently Exploring
 
-- API development with Next.js backend  
-- MongoDB Atlas and schema design with Mongoose  
-- Advanced DSA on LeetCode
+- 🔐 Authentication with **NextAuth** in Next.js apps
+- 🧩 Advanced **MongoDB Mongoose** schema design
+- 🧪 Efficient **API testing & documentation** using Postman
 
 ---
 
-> 💬 “Always learning, always building — one line of code at a time.”
+> 🚀 "Crafting meaningful software one line at a time."
 
+---
