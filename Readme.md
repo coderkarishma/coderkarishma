@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/coderkarishma">
-    <img src="https://raw.githubusercontent.com/coderkarishma/coderkarishma/main/159ab7d7-8adc-44a8-b75b-7455c8fbd2b9.png" width="200" alt="Karishma Profile Photo" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.2);" />
+    <img src="https://avatars.githubusercontent.com/u/180514485?v=4"/>
   </a>
 </p>
 
